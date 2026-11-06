@@ -107,7 +107,6 @@ export default function Planner({
         </div>
       )}
       <div className="planner-footer">
-        <span className="save-note">Задачи сохраняются в этом браузере</span>
         <button
           className="add-button"
           onClick={(event) => {
